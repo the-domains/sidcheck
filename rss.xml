@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sidcheck]]></title>
+        <description><![CDATA[sidcheck]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 16:35:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Relax using cellphone]]></title>
+            <description><![CDATA[<article><h1>Relax using cellphone</h1><p>This is "027516960-asian-woman-walking-city-stree" by on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <link>https://vimeo.com/174505066</link>
+            <guid isPermaLink="false">8df88f0b-86af-44bf-88aa-516016efd433</guid>
+            <pubDate>Wed, 13 Jul 2016 16:35:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
