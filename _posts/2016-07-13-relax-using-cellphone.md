@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-13T16:35:34.441Z'
+datePublished: '2016-07-13T16:38:12.581Z'
 isBasedOnUrl: 'https://vimeo.com/174505066'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: Jimmy Wu
     url: 'http://vimeo.com/user5153141'
     avatar: {}
-dateModified: '2016-07-13T16:04:25.476Z'
+dateModified: '2016-07-13T16:38:11.640Z'
 title: Relax using cellphone
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/174505066'
@@ -45,7 +45,7 @@ description: >-
   This is "027516960-asian-woman-walking-city-stree" by on Vimeo, the home for
   high quality videos and the people who love them.
 sourcePath: _posts/2016-07-13-relax-using-cellphone.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
